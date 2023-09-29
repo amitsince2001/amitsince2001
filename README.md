@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitsince2001
+- 👋 Hi, I’m Amit Kumar Dubey
 - 👀 I’m interested in website and app development
 - 🌱 I’m currently learning and working on Android development
 - 📫 Reach me on linkedin : https://www.linkedin.com/in/amitsince2001
