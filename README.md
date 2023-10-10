@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Kumar Dubey
 - 👀 I’m interested in website and app development
-- 🌱 I’m currently learning and working on Android development
+- 🌱 I’m currently learning and working on Frontend Web Development.
 - 📫 Reach me on linkedin : https://www.linkedin.com/in/amitsince2001
 
 
